@@ -1,4 +1,4 @@
-# CrescerComMatematica
+# Crescer Com Matematica
   A Discalculia é uma desordem neurológica específica que afeta a habilidade de uma pessoa de compreender e manipular números. Assim, com este projeto pretendeu-se desenvolver uma
 aplicação que ajude na aprendizagem da matemática básica (aritmética simples), dedicada a crianças que frequentem o ensino básico (até ao 4º ano). Nesta aplicação incorporam-se 
 problemas associados à matemática, e após resolução dos mesmos, jogos didáticos, que estimulam a memória, entre outros aspetos, que captam a atenção da criança.
