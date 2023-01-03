@@ -1,4 +1,4 @@
-# CrescerComMatematica
+# GrowWithMathematics
 
   Dyscalculia is a specific neurological disorder that affects a person's ability to understand and manipulate numbers. Therefore, with this project, the intention was to
 develop an application that helps with the learning of basic mathematics (simple arithmetic), dedicated to children who attend the years of education up to the 4th year 
